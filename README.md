@@ -10,7 +10,7 @@ Welcome to my IT and Cybersecurity project portfolio! I’m passionate about cyb
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/addankisrinivas/threat-hunting-scenario-tor)**
 
 <hr/>
 
