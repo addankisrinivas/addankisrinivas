@@ -1,6 +1,22 @@
 # <a href="https://www.linkedin.com/in/srinivasaddanki/">Srinivas Addanki</a>'s IT and Data Analyst Project Portfolio 🔐
 
-Welcome to my IT and Data Analyst project portfolio! I’m passionate about turning raw data into meaningful insights that drive business decisions. With a strong foundation in data analytics, I specialize in extracting, transforming, and visualizing data to uncover patterns and optimize processes!
+## About Me
+
+I am a **detail-oriented Data Analyst** with a strong passion for transforming raw data into meaningful insights that drive business decisions. With a deep foundation in **data analytics**, I specialize in extracting, transforming, and visualizing data to uncover patterns, optimize processes, and enhance business performance.
+
+### Key Skills & Expertise:
+- **Data Cleaning & Preparation**: Ensuring data accuracy and integrity for improved decision-making.
+- **Data Visualization**: Creating intuitive and insightful dashboards using tools like **Power BI** and **Excel**.
+- **SQL & Python**: Writing efficient queries and scripts to analyze large datasets and automate processes.
+- **Business Intelligence**: Utilizing data to provide insights that enhance operational efficiency and profitability.
+- **Statistical Analysis**: Applying advanced statistical methods to analyze data and solve business challenges.
+
+I am highly proficient in using **SQL**, **Python**, and various **Business Intelligence** tools to analyze datasets, generate reports, and design dashboards that provide actionable insights. My problem-solving skills and analytical mindset allow me to translate complex data into strategic recommendations for stakeholders.
+
+I thrive in fast-paced environments and love collaborating with cross-functional teams to derive insights that contribute to informed decision-making.
+
+If you're interested in collaborating or discussing opportunities in **data analytics**, feel free to connect with me or follow my GitHub updates.
+
 
 ## 📊 Excel Projects
 
