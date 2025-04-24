@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/srinivasaddanki/">Srinivas Addanki</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-Welcome to my IT and Cybersecurity project portfolio! I’m passionate about cybersecurity and enjoy solving tough problems through hands-on projects. Whether it’s managing vulnerabilities, detecting threats, or improving security processes, I love diving into the details and making systems safer. Below, you’ll find some of my work that shows how I’ve helped improve security operations and processes!
+Welcome to my IT and Data Analyst project portfolio! I’m passionate about turning raw data into meaningful insights that drive business decisions. With a strong foundation in data analytics, I specialize in extracting, transforming, and visualizing data to uncover patterns and optimize processes!
 
 
 ## ⚠️ Vulnerability Management Projects
