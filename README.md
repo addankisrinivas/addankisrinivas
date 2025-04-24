@@ -4,7 +4,7 @@ Welcome to my IT and Data Analyst project portfolio! I’m passionate about turn
 
 ## 📊 Excel Projects
 
-- **[Excel: Sales Analytics](https://github.com/addankisrinivas/Vulnerability-Management-Program)**
+- **[Excel: Sales Analytics](https://github.com/addankisrinivas/Excel-Sales-Analytics)**
 
 ## ⚠️ Vulnerability Management Projects
 
