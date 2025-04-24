@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/srinivasaddanki/">Srinivas Addanki</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/srinivasaddanki/">Srinivas Addanki</a>'s IT and Data Analyst Project Portfolio 🔐
 
 Welcome to my IT and Data Analyst project portfolio! I’m passionate about turning raw data into meaningful insights that drive business decisions. With a strong foundation in data analytics, I specialize in extracting, transforming, and visualizing data to uncover patterns and optimize processes!
 
