@@ -2,8 +2,9 @@
 
 Welcome to my IT and Data Analyst project portfolio! I’m passionate about turning raw data into meaningful insights that drive business decisions. With a strong foundation in data analytics, I specialize in extracting, transforming, and visualizing data to uncover patterns and optimize processes!
 
-## 📊 Excel: Sales Analytics Projects
+## 📊 Excel Projects
 
+- **[Excel: Sales Analytics](https://github.com/addankisrinivas/Vulnerability-Management-Program)**
 
 ## ⚠️ Vulnerability Management Projects
 
