@@ -22,7 +22,7 @@ If you're interested in collaborating or discussing opportunities in **data anal
 ## 🟨📊 Power BI Projects
 
 - **[Business Insights 360](https://github.com/addankisrinivas/Business-Insights-360)**
-- **[RevBoost: Business Intelligence for AtliQ Grands](https://github.com/addankisrinivas/Excel-Sales-Analytics)**
+- **[RevBoost: Business Intelligence for AtliQ Grands](https://github.com/addankisrinivas/RevBoost-Business-Intelligence-for-AtliQ-Grands)**
 
 ## 📊 Excel Projects
 
