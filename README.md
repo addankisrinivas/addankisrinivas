@@ -18,6 +18,12 @@ I thrive in fast-paced environments and love collaborating with cross-functional
 If you're interested in collaborating or discussing opportunities in **data analytics**, feel free to connect with me or follow my GitHub updates.
 
 
+
+## 🟨📊 Power BI Projects
+
+- **[Business Insights 360](https://github.com/addankisrinivas/Excel-Sales-Analytics)**
+- **[RevBoost: Business Intelligence for AtliQ Grands](https://github.com/addankisrinivas/Excel-Sales-Analytics)**
+
 ## 📊 Excel Projects
 
 - **[Excel: Sales Analytics](https://github.com/addankisrinivas/Excel-Sales-Analytics)**
