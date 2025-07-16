@@ -17,7 +17,7 @@ I thrive in fast-paced environments and love collaborating with cross-functional
 
 If you're interested in collaborating or discussing opportunities in **data analytics**, feel free to connect with me or follow my GitHub updates.
 
-
+## 🟨📊 SQL Projects
 
 ## 🟨📊 Power BI Projects
 
