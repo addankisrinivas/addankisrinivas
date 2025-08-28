@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/srinivasaddanki/">Srinivas Addanki</a>'s IT and Data Analyst Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/srinivasaddanki/">Srinivas Addanki</a>'s IT and Cyber Security Analyst Project Portfolio 🔐
 
 ## About Me
 
